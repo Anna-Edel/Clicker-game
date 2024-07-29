@@ -1,0 +1,5 @@
+.clicker__cookie {
+    cursor: pointer;
+    border: 2px solid #ccc;
+    transition: width 0.2s, height 0.2s; /* Плавные переходы */
+}
